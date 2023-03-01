@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **building systems that take the human work**
 
-- 🌱 I’m currently learning **specializing in intelligent medical systems**
+- 🌱 I’m currently learning **Software Development in general**
 
 - 📫 How to reach me **on telegram: @ThamerHussain**
 
