@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thamer</h1>
-<h3 align="center">A passionate Data Scientist from Iraq</h3>
+<h3 align="center">A passionate Software Developer from Iraq</h3>
 
-- 👀 I’m interested in **Artificial intelligence and algorithms in creating systems that take human work**
+- 👀 I’m interested in **building systems that take the human work**
 
-- 🌱 I’m currently learning **specializing in intelligent medical systems, in addition to programming mobile applications**
+- 🌱 I’m currently learning **specializing in intelligent medical systems**
 
 - 📫 How to reach me **on telegram: @ThamerHussain**
 
